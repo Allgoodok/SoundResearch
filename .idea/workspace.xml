@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66502f72-2c18-40d6-beed-da1224336597" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/soundspectrogram/Wave.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/soundspectrogram/Wave.java" afterPath="$PROJECT_DIR$/src/com/soundspectrogram/Wave.java" />
     </list>
     <ignored path="SoundResearch.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,9 +38,12 @@
       <file leaf-file-name="Wave.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/soundspectrogram/Wave.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.17504051">
-              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-              <folding />
+            <state vertical-scroll-proportion="0.20421393">
+              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+              <folding>
+                <element signature="e#101#102#0" expanded="true" />
+                <element signature="e#143#144#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -479,12 +479,12 @@
       <created>1442036027204</created>
       <option name="number" value="Default" />
       <updated>1442036027204</updated>
-      <workItem from="1442036030289" duration="459000" />
+      <workItem from="1442036030289" duration="952000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="459000" />
+    <option name="totallyTimeSpent" value="952000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="30" width="1366" height="738" extended-state="0" />
@@ -545,9 +545,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/soundspectrogram/Wave.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17504051">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-          <folding />
+        <state vertical-scroll-proportion="0.20421393">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding>
+            <element signature="e#101#102#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
